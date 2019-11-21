@@ -1,4 +1,4 @@
-#Thu Nov 21 16:06:06 MSK 2019
+#Thu Nov 21 19:08:02 MSK 2019
 base.0=D\:\\Maria_Kirdun\\KotlinFundamentals\\DevBytes-starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
